@@ -16,26 +16,11 @@
 
 #### Mall
 
-##### Dag 4...
-
-##### Dag 3...
-
-##### Dag 2: Onsdag 3.10
-
-Projekt: Avslutade google-clone
-
-Reflektioner: Börjar förstå flexbox bättre. Borde göra en övning med flexbox. Klonen blev riktigt bra!
-
-Bild:
-
-![Google-clone](/images/logo.png)
-
 ##### Dag 1: Tisdag 2.10
 
-Projekt: Påbörjade google-clone övning i skolan
+Projekt: ja kopera tobes files vi fick lite info om git 
 
-Reflektioner: Behöver lära mig mera om CSS Flexbox. Tror jag använder "flex containrar" för ofta.
+Reflektioner: git e en bra app i like it men jag måst lära mig mer om git 
 
 Länkar:
 
-- www.codepen.com/8128973189273
