@@ -43,7 +43,7 @@ Reflektioner: prova på css och exprimentera me färgerna vad som passar best me
 
 Länkar:
 
-##### Dag 3: tisdag 9.10
+##### Dag 6: tisdag 9.10
 
 Projekt:freecodecape  SURVEY FORM 
 Reflektioner: vi förtsätte med survey formem tillsatt lite css oh html 
